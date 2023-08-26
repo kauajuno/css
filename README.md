@@ -1,0 +1,1 @@
+Definitive edition of the repository where I throw my little daily CSS discoveries. Seldomly updating I guess.
